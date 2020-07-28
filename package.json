@@ -1,0 +1,19 @@
+{
+  "name": "hello-typescript",
+  "description": "Hello TypeScript",
+  "version": "1.0.0-alpha.0",
+  "main": "lib-cjs/index.js",
+  "files": [
+    "lib-cjs"
+  ],
+  "author": "Maxim Usikov <mu.usikov@gmail.com>",
+  "repository": "github:maxim-usikov/hello-typescript",
+  "keywords": [
+    "hello",
+    "typescript"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "3.9.7"
+  }
+}
